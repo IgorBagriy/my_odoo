@@ -1,2 +1,2 @@
 # my_odoo
-testPR testing
+test PR testing
